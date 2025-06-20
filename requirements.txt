@@ -1,0 +1,8 @@
+
+numpy
+opencv-python
+matplotlib
+svgwrite
+torch
+stable-baselines3
+optuna
